@@ -9,4 +9,4 @@ The followings are the examples of Qt sources built with [Emscripten](https://em
 
  * [analog clock](https://treefrogframework.github.io/qt-webassembly-examples/analogclock/)
  * [animated tiles](https://treefrogframework.github.io/qt-webassembly-examples/animatedtiles/)
- 
+ * [stick man](https://treefrogframework.github.io/qt-webassembly-examples/stickman/)
