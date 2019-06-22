@@ -5,4 +5,4 @@ Enjoy the examples!
 
 https://treefrogframework.github.io/qt-webassembly-examples/
 
-[analogclock](/analogclock/)
+[analogclock](/qt-webassembly-examples/analogclock/)
