@@ -13,6 +13,7 @@ The followings are the examples of Qt sources built with [Emscripten](https://em
  * [animated tiles](https://treefrogframework.github.io/qt-webassembly-examples/animatedtiles/)
  * [stick man](https://treefrogframework.github.io/qt-webassembly-examples/stickman/)
  * [affine](https://treefrogframework.github.io/qt-webassembly-examples/affine/)
+ * [chip](https://treefrogframework.github.io/qt-webassembly-examples/chip/)
  * [fademessage](https://treefrogframework.github.io/qt-webassembly-examples/fademessage/)
  * [dials](https://treefrogframework.github.io/qt-webassembly-examples/dials/)
 
