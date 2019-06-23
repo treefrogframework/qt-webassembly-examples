@@ -1,12 +1,11 @@
-Qt for WebAssembly
-==================
-
-Enjoy the demos!
+## Enjoy the demos!
 
 The followings are the examples of Qt sources built with [Emscripten](https://emscripten.org/){:target="_blank"} <i class="fas fa-external-link-alt"></i>. They may not work properly in a browser of smartphone.
 
-![animated tiles]({{ site.baseurl }}/assets/images/animatedtiles.png "animated tiles")
-![composition]({{ site.baseurl }}/assets/images/composition.png "composition")
+![animated tiles]({{ site.baseurl }}/assets/images/animatedtiles.png "animated tiles"){:width="400px"}
+![composition]({{ site.baseurl }}/assets/images/composition.png "composition"){:width="400px"}
+![deform]({{ site.baseurl }}/assets/images/deform.png "deform"){:width="400px"}
+![tetrix]({{ site.baseurl }}/assets/images/tetrix.png "tetrix"){:width="400px"}
 
  * [hello window](https://treefrogframework.github.io/qt-webassembly-examples/hellowindow/){:target="_blank"}
  * [analog clock](https://treefrogframework.github.io/qt-webassembly-examples/analogclock/){:target="_blank"}
