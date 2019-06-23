@@ -5,12 +5,11 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-
+    <link href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" rel="stylesheet">
 {% seo %}
   </head>
 
   <body>
-
     <header>
       <div class="container">
         <h1>{{ site.title | default: site.github.repository_name }}</h1>
@@ -26,6 +25,8 @@
       </div>
     </header>
 
+    <p id="msg" style="color: red"></p>
+    
     <div class="container">
       <section id="main_content">
         {{ content }}
@@ -45,5 +46,14 @@
         ga('send', 'pageview');
       </script>
     {% endif %}
+    <script>
+        function webAssemblySupported() {
+            return typeof WebAssembly !== "undefined"
+        }
+    
+        if (!webAssemblySupported()) {
+          document.getElementById('msg').textContent = "Your browser doesn't support WebAssembly!";
+        }
+    </script>
   </body>
 </html>
