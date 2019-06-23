@@ -1,6 +1,7 @@
 ## Enjoy the demos!
 
-The followings are the examples of Qt sources built with [Emscripten](https://emscripten.org/){:target="_blank"} <i class="fas fa-external-link-alt"></i>. They may not work properly in a browser of smartphone.
+The followings are the examples of Qt sources built with [Emscripten](https://emscripten.org/){:target="_blank"} <i class="fas fa-external-link-alt"></i>. 
+They may not work properly in a browser of smartphone.
 
 ![animated tiles]({{ site.baseurl }}/assets/images/animatedtiles.png "animated tiles"){:width="380px"}
 ![composition]({{ site.baseurl }}/assets/images/composition.png "composition"){:width="380px"}
