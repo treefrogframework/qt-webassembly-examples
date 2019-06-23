@@ -27,4 +27,4 @@ The followings are the examples of Qt sources built with [Emscripten](https://em
  * [elastic nodes](https://treefrogframework.github.io/qt-webassembly-examples/elasticnodes/){:target="_blank"}
 
 
-See [original site <i class="fas fa-external-link-alt"></i>](https://doc.qt.io/qt-5/qtexamplesandtutorials.html){:target="_blank"}
+See [Qt Examples page <i class="fas fa-external-link-alt"></i>](https://doc.qt.io/qt-5/qtexamplesandtutorials.html){:target="_blank"}.
