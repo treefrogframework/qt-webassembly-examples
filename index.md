@@ -23,6 +23,7 @@ The followings are the examples of Qt sources built with [Emscripten](https://em
  * [svg viewer](https://treefrogframework.github.io/qt-webassembly-examples/svgviewer/){:target="_blank"}
  * [deform](https://treefrogframework.github.io/qt-webassembly-examples/deform/){:target="_blank"}
  * [composition](https://treefrogframework.github.io/qt-webassembly-examples/composition/){:target="_blank"}
+ * [colliding mice](https://treefrogframework.github.io/qt-webassembly-examples/collidingmice/){:target="_blank"}
 
 
 See [original site <i class="fas fa-external-link-alt"></i>](https://doc.qt.io/qt-5/qtexamplesandtutorials.html){:target="_blank"}
