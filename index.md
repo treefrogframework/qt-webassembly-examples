@@ -20,6 +20,7 @@ The followings are the examples of Qt sources built with [Emscripten](https://em
  * [dials](https://treefrogframework.github.io/qt-webassembly-examples/dials/){:target="_blank"}
  * [openglwindow](https://treefrogframework.github.io/qt-webassembly-examples/openglwindow/){:target="_blank"}
  * [fluid launcher](https://treefrogframework.github.io/qt-webassembly-examples/fluidlauncher/){:target="_blank"}
+ * [svg viewer](https://treefrogframework.github.io/qt-webassembly-examples/svgviewer/){:target="_blank"}
 
 
 See [original site <i class="fas fa-external-link-alt"></i>](https://doc.qt.io/qt-5/qtexamplesandtutorials.html){:target="_blank"}
