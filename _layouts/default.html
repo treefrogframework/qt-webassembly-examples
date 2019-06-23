@@ -26,7 +26,7 @@
     </header>
 
     <p id="msg" style="color: red"></p>
-    
+
     <div class="container">
       <section id="main_content">
         {{ content }}
@@ -46,11 +46,12 @@
         ga('send', 'pageview');
       </script>
     {% endif %}
+
     <script>
         function webAssemblySupported() {
             return typeof WebAssembly !== "undefined"
         }
-    
+
         if (!webAssemblySupported()) {
           document.getElementById('msg').textContent = "Your browser doesn't support WebAssembly!";
         }
